@@ -55,6 +55,6 @@ Update Data: Modify existing employee details.
 Read Data: Retrieve and display all employee records.
 Delete Data: Remove an employee record by ID.
 
-# The code uses a Scanner for user input.
-# JDBC is used for database operations.
-# Each operation (insert, read, update, delete) is encapsulated in separate methods.
+The code uses a Scanner for user input.
+JDBC is used for database operations.
+Each operation (insert, read, update, delete) is encapsulated in separate methods.
