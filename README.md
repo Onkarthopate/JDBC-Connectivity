@@ -1,4 +1,4 @@
-#### Java JDBC CRUD Operations
+### Java Connectivity
 
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using JDBC 
 (Java Database Connectivity) with a MySQL database.
